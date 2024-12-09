@@ -187,6 +187,7 @@ Open EDA notebook
           jupyter execute EDA.ipynb       
         ```   
    * From Visual Studio Code
+   
      1.Click on File
      2.Click on Open Folder
      3.Select BillBoard_Hot_100 folder
