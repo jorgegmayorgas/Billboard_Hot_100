@@ -172,10 +172,6 @@ To get a local copy up and running follow these simple example steps. -->
     pip install -r requirements.txt
    ```
 
-
-      ```
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -187,11 +183,9 @@ Open EDA notebook
 
    * With Jupyter (Command Prompt or PowerShell)
         ```
-          billboard\Scripts\activate
+          jupyter execute notebook.ipynb
         ```   
-   * On macOS/Linux (Bash/Zsh shell)
-      ```
-        source billboard/bin/activate
+   * On Visual Studio Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
