@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jorgegmayorgas/Billboard_Hot_100">
-    <img src="https://jorgegmayorgas.github.io/hundirlaflota/images/intro_01.jpg" alt="Logo" width="512" height="512">
+    <img src="https://github.com/jorgegmayorgas/Billboard_Hot_100/images/intro_01.jpg" alt="Logo" width="512" height="512">
   </a>
 
 <h3 align="center">EDA of a dataset of Billboard Hot 100</h3>
@@ -96,7 +96,7 @@
 * [![Python][Python]][Python-url]
 * [![Jupyter][Jupyter]][Jupyter-url]
 * [![Visual_Code][Visual_Code]][Visual_Code-url]
-<!--* [![PowerPoint][PowerPoint]][PowerPoint-url] -->
+* [![PowerPoint][PowerPoint]][PowerPoint-url]
 * [![DALL-E Enabled][DALL-E Enabled]][DALL-E Enabled-url]
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
@@ -138,7 +138,7 @@ To get a local copy up and running follow these simple example steps. -->
 1. Create a virtual environment of Python named env1
 
    ```
-    python -m venv env1
+    python -m venv billboard
    ```
    
 2. Activate it
@@ -147,17 +147,17 @@ To get a local copy up and running follow these simple example steps. -->
      * For Command Prompt:
 
         ```
-          env1\Scripts\activate
+          billboard\Scripts\activate
         ```   
      * For PowerShell:
 
         ```
-          env1\Scripts\Activate
+          billboard\Scripts\Activate
         ```   
    * On macOS/Linux (Bash/Zsh shell)
 
       ```
-        source env1/bin/activate
+        source billboard/bin/activate
       ```
 
 3. Clone the repo on any Python app server
@@ -172,11 +172,16 @@ To get a local copy up and running follow these simple example steps. -->
     pip install -r requirements.txt
    ```
 
-5. Run application from directory hundirlaflota
+5. Open EDA notebook 
 
-   ```
-    python main.py
-   ```
+   * With Jupyter (Command Prompt or PowerShell)
+        ```
+          billboard\Scripts\activate
+        ```   
+   * On macOS/Linux (Bash/Zsh shell)
+      ```
+        source billboard/bin/activate
+      ```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -210,7 +215,7 @@ Modify templates/index.html to match your IP or domain
 - [ ] Feature 3
     - [ ] Nested Feature
 -->
-See the [open issues](https://github.com/jorgegmayorgas/ML_Project_YouTube_keyword_optimization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jorgegmayorgas/Billboard_Hot_100/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -283,7 +288,7 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jgimenezm/?locale=en_US
 <!-- [product-screenshot]: images/intro_ppt.jpg -->
-[product-screenshot]: https://jorgegmayorgas.github.io/hundirlaflota/images/screenshot.jpg
+[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/images/screenshot.jpg
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [Visual_Code]: https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
