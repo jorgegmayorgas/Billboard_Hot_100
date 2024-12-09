@@ -183,9 +183,15 @@ Open EDA notebook
 
    * With Jupyter (Command Prompt or PowerShell)
         ```
-          jupyter execute notebook.ipynb
+          cd notebooks
+          jupyter execute EDA.ipynb       
         ```   
-   * On Visual Studio Code
+   * From Visual Studio Code
+     1.Click on File
+     2.Click on Open Folder
+     3.Select BillBoard_Hot_100 folder
+     4.Double click on EDA.ipynb inside notebooks folder
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
