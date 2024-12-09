@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jorgegmayorgas/Billboard_Hot_100">
-    <img src="https://github.com/jorgegmayorgas/Billboard_Hot_100/images/intro_01.jpg" alt="Logo" width="512" height="512">
+    <img src="https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/main/images/intro_01.jpg" alt="Logo" width="512" height="512">
   </a>
 
 <h3 align="center">EDA of a dataset of Billboard Hot 100</h3>
@@ -279,7 +279,7 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jgimenezm/?locale=en_US
 <!-- [product-screenshot]: images/intro_ppt.jpg-->
-[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/images/intro_02.jpg
+[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/main/images/intro_02.jpg
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [Visual_Code]: https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
