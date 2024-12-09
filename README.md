@@ -172,15 +172,7 @@ To get a local copy up and running follow these simple example steps. -->
     pip install -r requirements.txt
    ```
 
-5. Open EDA notebook 
 
-   * With Jupyter (Command Prompt or PowerShell)
-        ```
-          billboard\Scripts\activate
-        ```   
-   * On macOS/Linux (Bash/Zsh shell)
-      ```
-        source billboard/bin/activate
       ```
 
 
@@ -191,16 +183,15 @@ To get a local copy up and running follow these simple example steps. -->
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open a web browser and go to 
+Open EDA notebook 
 
-  [http://127.0.0.1:5000](http://127.0.0.1:5000) if app is being executed locally 
-
-or 
-
-  [http://ip_of_remote_machine:5000](http://ip_of_remote_machine:5000) if it is not running locally
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
-
-Modify templates/index.html to match your IP or domain 
+   * With Jupyter (Command Prompt or PowerShell)
+        ```
+          billboard\Scripts\activate
+        ```   
+   * On macOS/Linux (Bash/Zsh shell)
+      ```
+        source billboard/bin/activate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,7 +256,7 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 * Ale, Noa Valentina, Tita, Janis, Mom, David, the rest of the family and friends.
 * [The Bridge|Talent Accelerator](https://www.linkedin.com/school/the-bridge-digital-talent-accelerator/?originalSubdomain=es) for their [Data Science Bootcamp](https://www.thebridge.tech/bootcamps/data-science?kw=the%20bridge%20data%20science&cpn=21006651326&utm_medium=ppc&utm_source=adwords&utm_campaign=ADSM_ALL_MARCA_GOOGLE_CONV_SEARCH&utm_term=the%20bridge%20data%20science&hsa_kw=the%20bridge%20data%20science&hsa_net=adwords&hsa_ver=3&hsa_cam=21006651326&hsa_ad=692242187661&hsa_acc=1272778203&hsa_src=g&hsa_grp=158138127583&hsa_mt=e&hsa_tgt=kwd-816707328670&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xS_bqJk05H-kE2szZqnRfBh7Bk2ZQ0eagIWUe2HDrLw_sqyc9nnIegaAl6GEALw_wcB)
 <!-- * [Google](https://www.google.com) for maintaning the awesome online video sharing and social media platform that is [YouTube](https://www.youtube.com) -->
-* [Asaniczka](https://www.kaggle.com/asaniczka)  the creator of the Dataset used in this project
+* [The Devastator](https://www.kaggle.com/thedevastator)  the creator of the Dataset used in this project
 * [Kaggle](https://www.kaggle.com/) for providing such  quantity of datasets 
 * [othneildrew](https://github.com/othneildrew/) The creator of this [Markdown template](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file)
 
@@ -287,8 +278,8 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 [license-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jgimenezm/?locale=en_US
-<!-- [product-screenshot]: images/intro_ppt.jpg -->
-[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/images/screenshot.jpg
+<!-- [product-screenshot]: images/intro_ppt.jpg-->
+[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/images/intro_02.jpg
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [Visual_Code]: https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
