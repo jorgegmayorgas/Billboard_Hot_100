@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jorgegmayorgas/Billboard_Hot_100">
-    <img src="https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/main/images/intro_01.jpg" alt="Logo" width="512" height="512">
+    <img src="images/intro_01.jpg" alt="Logo" width="512" height="512">
   </a>
 
 <h3 align="center">EDA of a dataset of Billboard Hot 100</h3>
@@ -270,20 +270,20 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jorgegmayorgas/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jorgegmayorgas/Billboard_Hot_100.svg?style=for-the-badge
 [contributors-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jorgegmayorgas/hundirlaflota.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jorgegmayorgas/Billboard_Hot_100.svg?style=for-the-badge
 [forks-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/network/members
-[stars-shield]: https://img.shields.io/github/stars/jorgegmayorgas/hundirlaflota.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jorgegmayorgas/Billboard_Hot_100.svg?style=for-the-badge
 [stars-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jorgegmayorgas/hundirlaflota.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jorgegmayorgas/Billboard_Hot_100.svg?style=for-the-badge
 [issues-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/issues
-[license-shield]: https://img.shields.io/github/license/jorgegmayorgas/hundirlaflota.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jorgegmayorgas/Billboard_Hot_100.svg?style=for-the-badge
 [license-url]: https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jgimenezm/?locale=en_US
 <!-- [product-screenshot]: images/intro_ppt.jpg-->
-[product-screenshot]: https://github.com/jorgegmayorgas/Billboard_Hot_100/blob/main/images/intro_02.jpg
+[product-screenshot]: images/intro_02.jpg
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [Visual_Code]: https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
